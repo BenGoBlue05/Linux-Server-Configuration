@@ -222,6 +222,11 @@ to `engine = create_engine('postgresql://catalog:catalog@localhost/catalog')`
 
 *  Configure OAuth client for Google Sign for http://ec2-18-222-114-3.us-east-2.compute.amazonaws.com and add credentials to `client_secrets.json`
 
+## Resources
+ * [Integrating Google Sign-In Into your web app](https://developers.google.com/identity/sign-in/web/sign-in#before_you_begin)
+ 
+ * [DigitalOcean - How To Deploy a Flask App on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+
 
 
 
